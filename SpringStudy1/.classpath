@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="D:/다운로드/mysql-connector-java-5.1.22/mysql-connector-java-5.1.22-bin.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-aop-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-aspects-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-beans-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-build-src-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-context-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-context-support-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-core-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-expression-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-instrument-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-instrument-tomcat-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-jdbc-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-jms-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-orm-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-oxm-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-struts-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-test-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-tx-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-web-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-webmvc-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/spring-framework-3.2.4.RELEASE/libs/spring-webmvc-portlet-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/다운로드/hadoop-1.0.4/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 (MacOS X Default)"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-aop-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-aspects-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-beans-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-build-src-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-context-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-context-support-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-core-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-expression-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-instrument-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-instrument-tomcat-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-jdbc-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-jms-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-messaging-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-orm-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-oxm-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-test-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-tx-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-web-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-webmvc-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-webmvc-portlet-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/spring-framework-4.0.0.M3/libs/spring-websocket-4.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="/Users/yonwoodaddy/Documents/work/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

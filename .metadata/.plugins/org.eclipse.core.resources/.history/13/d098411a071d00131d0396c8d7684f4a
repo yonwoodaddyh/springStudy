@@ -1,0 +1,7 @@
+package bitcho.learningtest.junit;
+
+public class JUnitTest {
+
+	static JUnitTest testObject;
+	
+}
