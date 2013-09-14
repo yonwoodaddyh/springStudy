@@ -11,7 +11,8 @@ public class JUnitTest {
 
 	static JUnitTest testObject;
 	
-	@Test public void test1() {
+	@Test 
+	public void test1() {
 		assertThat(this, is(not(sameInstance(testObject))));
 		testObject = this;
 	}

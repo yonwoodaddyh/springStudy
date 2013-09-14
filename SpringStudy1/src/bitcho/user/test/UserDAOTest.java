@@ -35,10 +35,10 @@ public class UserDAOTest {
 	public void setUp() {
 		this.dao = context.getBean("userDAO", UserDAO.class);
 		
-		user = new User("bitcho10", "Á¶¼ºÇÑ", "dusdn1027");
-		user1 = new User("bitcho11", "Á¶¼ºÇÑ", "dusdn1027");
-		user2 = new User("bitcho12", "Á¶¼ºÇÑ", "dusdn1027");
-		user3 = new User("bitcho13", "Á¶¼ºÇÑ", "dusdn1027");
+		user = new User("bitcho10", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", "dusdn1027");
+		user1 = new User("bitcho11", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", "dusdn1027");
+		user2 = new User("bitcho12", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", "dusdn1027");
+		user3 = new User("bitcho13", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", "dusdn1027");
 	}
 	
 	@Test
